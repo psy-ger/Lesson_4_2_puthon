@@ -13,4 +13,4 @@ if start_list:
     result = int(sum(start_list[::2]) * start_list[-1])
     print(result)
 else:
-    print(0)
+    print(result)
